@@ -1,0 +1,1 @@
+execute store success score dependency skillPoints run function schmig.slotlocker.main:slots/inv-106_give
