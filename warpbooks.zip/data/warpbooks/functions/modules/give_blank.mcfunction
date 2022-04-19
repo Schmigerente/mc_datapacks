@@ -1,0 +1,1 @@
+give @s written_book{warpbook:1b,pages:['["",{"text":"Click the button to\\ncreate a new warp book\\n\\n\\n\\n\\n \\u0020 \\u0020"},{"text":"[Create Book]","bold":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/function warpbooks:modules/generate_book"}}]'],title:"Blank Warp Book",author:"warpbooks.tigerentenclan"}
