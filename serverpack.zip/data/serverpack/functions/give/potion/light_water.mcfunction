@@ -1,0 +1,1 @@
+give @s minecraft:potion{CustomPotionEffects:[{Id:29,Duration:9600},{Id:30,Duration:9600}],CustomPotionColor:8966119,display:{Name:"\"Light Water\"",Lore:["{\"text\":\"Smells like rotten fish\"}"]},HideFlags:63s}

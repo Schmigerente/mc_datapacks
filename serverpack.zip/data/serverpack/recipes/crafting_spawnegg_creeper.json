@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "spawneggs",
+    "pattern": [
+        "GGG",
+        "GEG",
+        "GGG"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "minecraft:creeper_spawn_egg",
+        "count": 1
+    }
+}

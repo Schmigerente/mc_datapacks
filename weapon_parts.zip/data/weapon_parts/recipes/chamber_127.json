@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "TTR",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item" : "minecraft:clock",
+			"type": ":sheet_metal"
+        },
+        "T": {
+            "item" : "minecraft:clock",
+			"type": ":tube_metal"
+        },
+        "R": {
+            "item" : "minecraft:clock",
+			"type": ":rod_metal"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

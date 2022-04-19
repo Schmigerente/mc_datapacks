@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#L#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_meal"
+        },
+        "L": {
+            "item": "minecraft:lily_pad"
+        }
+    },
+    "result": {
+        "item": "minecraft:lily_pad",
+        "count": 9
+    }
+}

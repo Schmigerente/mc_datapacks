@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "GTG",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item" : "minecraft:clock",
+			"type": ":sheet_metal"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "T": {
+            "item" : "minecraft:clock",
+			"type": ":tube_metal"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

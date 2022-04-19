@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "diamond",
+    "pattern": [
+        "###",
+        "CCC",
+        "CCC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:grass_block"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:diamond",
+        "count": 1
+    }
+}

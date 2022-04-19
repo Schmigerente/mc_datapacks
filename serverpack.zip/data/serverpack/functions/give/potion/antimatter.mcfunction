@@ -1,0 +1,1 @@
+give @s minecraft:splash_potion{CustomPotionEffects:[{Id:7,Amplifier:28}],CustomPotionColor:0,display:{Name:"\"Antimatter\"",Lore:["{\"text\":\"Just don't\"}"]},HideFlags:63s}

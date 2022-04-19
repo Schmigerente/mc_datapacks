@@ -1,0 +1,5 @@
+execute as @s at @s align xyz store result score @s x_outpost run data get entity @s Pos[0]
+execute as @s at @s align xyz store result score @s y_outpost run data get entity @s Pos[1]
+execute as @s at @s align xyz store result score @s z_outpost run data get entity @s Pos[2]
+execute as @s at @s align xyz store result score @s r_outpost run data get entity @s Rotation[0]
+execute as @s at @s align xyz store result score @s l_outpost run data get entity @s Rotation[1]

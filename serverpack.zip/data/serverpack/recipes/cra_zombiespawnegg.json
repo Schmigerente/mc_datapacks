@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "spawneggs",
+    "pattern": [
+        " # ",
+        "RER",
+        "RiR"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:zombie_head"
+        },
+        "R": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:zombie_spawn_egg",
+        "count": 1
+    }
+}

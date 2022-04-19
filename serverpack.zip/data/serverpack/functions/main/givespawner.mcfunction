@@ -1,0 +1,1 @@
+give @s minecraft:spawner{BlockEntityTag:{SpawnCount:4s,SpawnRange:6s,Delay:0s,MinSpawnDelay:200s,MaxSpawnDelay:800s,MaxNearbyEntities:4s,RequiredPlayerRange:16s,SpawnData:{id:"minecraft:zombie"},SpawnPotentials: [{Entity: {id: "minecraft:zombie"}}]}} 1

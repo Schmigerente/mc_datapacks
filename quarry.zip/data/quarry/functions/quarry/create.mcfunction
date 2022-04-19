@@ -1,0 +1,3 @@
+particle minecraft:dust 0 0 0 1 ~ ~ ~ 0.3 0.3 0.3 1 100 normal
+playsound minecraft:block.anvil.use block @a[distance=..10] ~ ~ ~
+summon item ~ ~ ~ {Glowing:1b,Item:{id:"minecraft:endermite_spawn_egg",Count:1b,tag:{display:{Name:'{"text":"Quarry","color":"black","bold":true}',Lore:['{"text":"Spawns a quarry whick digs a 16x16 hole to the ground in southeast direction"}']},EntityTag:{Silent:1b,Invulnerable:1b,NoAI:1b,CanPickUpLoot:0b,Tags:["quarry.gen"]}}}}

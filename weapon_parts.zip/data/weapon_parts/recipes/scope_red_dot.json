@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R",
+        "SS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass_pane"
+        },
+        "R": {
+            "item": "minecraft:red_dye"
+        },
+        "S": {
+            "item" : "minecraft:clock",
+			"type": ":sheet_metal"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

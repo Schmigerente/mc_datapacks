@@ -1,0 +1,1 @@
+give @s minecraft:potion{CustomPotionEffects:[{Id:10,Amplifier:5,Duration:160},{Id:21,Amplifier:39,Duration:12000}],CustomPotionColor:16137414,display:{Name:"\"Nine Lives\"",Lore:["{\"text\":\"Cats live longer\"}"]},HideFlags:63s}

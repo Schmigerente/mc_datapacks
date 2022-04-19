@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "spawneggs",
+    "pattern": [
+        "GRG",
+        "TET",
+        "GRG"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "T": {
+            "item": "minecraft:gunpowder"
+        },
+        "G": {
+            "item": "minecraft:glowstone_dust"
+        }
+    },
+    "result": {
+        "item": "minecraft:witch_spawn_egg",
+        "count": 1
+    }
+}

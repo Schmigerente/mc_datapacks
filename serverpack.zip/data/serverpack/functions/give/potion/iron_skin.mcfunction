@@ -1,0 +1,1 @@
+give @s minecraft:potion{CustomPotionEffects:[{Id:2,Amplifier:1,Duration:3600},{Id:4,Duration:3600},{Id:11,Amplifier:2,Duration:3600},{Id:12,Duration:3600},{Id:18,Duration:3600},{Id:22,Amplifier:9,Duration:3600}],CustomPotionColor:16772634,display:{Name:"\"Iron Skin\"",Lore:["{\"text\":\"Nothing can hurt you\"}"]},HideFlags:63s}

@@ -1,0 +1,1 @@
+give @s minecraft:potion{CustomPotionEffects:[{Id:19,Amplifier:2,Duration:1200},{Id:26,Amplifier:19,Duration:1200}],CustomPotionColor:13930017,display:{Name:"\"Poisonous Luck\"",Lore:["{\"text\":\"What doesn't kill you ... gives you better loot ??\"}"]},HideFlags:63s}

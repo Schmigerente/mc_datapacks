@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "serverpack:stone"
+    },
+    "result": "minecraft:granite",
+    "count": 1
+}

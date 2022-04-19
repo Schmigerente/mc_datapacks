@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "spawneggs",
+    "pattern": [
+        "RRR",
+        "RER",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:zombie_spawn_egg",
+        "count": 1
+    }
+}

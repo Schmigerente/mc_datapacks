@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:cobblestone"
+    },
+    "result": "minecraft:magma_block",
+    "experience": 0,
+    "cookingtime": 800
+}

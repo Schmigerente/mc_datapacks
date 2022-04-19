@@ -1,0 +1,1 @@
+give @s minecraft:splash_potion{CustomPotionEffects:[{Id:1,Amplifier:14,Duration:400},{Id:11,Amplifier:4,Duration:400},{Id:12,Duration:400},{Id:16,Duration:600},{Id:17,Amplifier:9,Duration:600}],CustomPotionColor:2686746,display:{Name:"\"Adrenaline\"",Lore:["{\"text\":\"Feel your heartbeat\"}"]},HideFlags:63s}

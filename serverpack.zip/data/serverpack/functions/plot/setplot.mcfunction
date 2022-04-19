@@ -1,0 +1,6 @@
+execute as @s at @s align xyz run summon minecraft:armor_stand ~0.5 ~-1.2 ~0.5 {Marker:1b,noGravity:1b,Invisible:1b,Tags:["plotMarker"],ArmorItems:[{},{},{},{id:"minecraft:player_head",Count:1b,tag:{SkullOwner:{Id:"3e2fdc8b-d81a-4b42-940d-5efeb2eda248",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTE3MGYwOTQwZDU1MDIyYjcyMWE2NGVhNDQ2Mjc4ZjM1OWZlNGJiMzk1NzI1ZGM4ZTkzYzAyYjEyMjllMWE3ZiJ9fX0="}]}},owner:0i,friendList:[0,0,0]}}]}
+execute store result entity @e[type=minecraft:armor_stand,limit=1,tag=plotMarker,sort=nearest] ArmorItems[3].tag.owner int 1 run scoreboard players get @s ID
+tellraw @a ["",{"selector":"@s","color":"gold"},{"text":" created a new Plot","color":"gray"}]
+
+execute as @e[type=armor_stand,tag=plotMarker,limit=1,sort=nearest] at @s align y run setblock ~ ~2 ~ minecraft:spawner{RequiredPlayerRange:0s,SpawnData:{id:"minecraft:area_effect_cloud"}} replace
+execute as @e[type=armor_stand,tag=plotMarker,limit=1,sort=nearest] at @s align y run data merge block ~ ~2 ~ {RequiredPlayerRange:0s}
