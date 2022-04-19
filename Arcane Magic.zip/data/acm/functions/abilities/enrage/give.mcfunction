@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Enrage","color":"dark_red","bold":true}',Lore:['{"text":"makes you angry and very deadly","color":"gray"}','{"text":"XP Cost: 30","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:51,acm_skill:"enrage",acm_cost:30,acm_singleuse:0b} 1

@@ -1,0 +1,1 @@
+summon creeper ~ ~ ~ {NoGravity:1b,Silent:1b,DeathLootTable:"ggg",NoAI:1b,ExplosionRadius:5b,Fuse:60,ignited:1b,ActiveEffects:[{Id:14b,Amplifier:1b,Duration:60,ShowParticles:0b}]}

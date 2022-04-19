@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Lightning","color":"blue","bold":true}',Lore:['{"text":"Summons a powerfull lightning strike","color":"gray"}','{"text":"XP Cost: 10","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:4,acm_skill:"lightning",acm_cost:10,acm_singleuse:0b} 1

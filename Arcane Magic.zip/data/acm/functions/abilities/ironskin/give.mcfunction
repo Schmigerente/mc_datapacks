@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Iron Skin","color":"yellow","bold":true}',Lore:['{"text":"Makes your skin hard and heavy like iron","color":"gray"}','{"text":"XP Cost: 20","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:63,acm_skill:"ironskin",acm_cost:20,acm_singleuse:0b} 1

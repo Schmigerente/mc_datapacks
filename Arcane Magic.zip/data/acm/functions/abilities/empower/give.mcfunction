@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Empower","color":"yellow","bold":true}',Lore:['{"text":"Buffs you and nearby players for five minutes","color":"gray"}','{"text":"XP Cost: 200","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:70,acm_skill:"empower",acm_cost:200,acm_singleuse:0b} 1

@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Teleport","color":"dark_purple","bold":true}',Lore:['{"text":"Teleports you ontop theaimed block","color":"gray"}','{"text":"XP Cost: 5","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:95,acm_skill:"teleport",acm_cost:5,acm_singleuse:0b} 1

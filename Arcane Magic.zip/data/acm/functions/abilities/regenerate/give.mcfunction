@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Regenerate","color":"dark_red","bold":true}',Lore:['{"text":"Regenerates your health for a day","color":"gray"}','{"text":"XP Cost: 200","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:58,acm_skill:"regenerate",acm_cost:200,acm_singleuse:0b} 1

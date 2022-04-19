@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Swiften Pace","color":"aqua","bold":true}',Lore:['{"text":"good for long distance travel","color":"gray"}','{"text":"XP Cost: 100","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:6,acm_skill:"swiften",acm_cost:100,acm_singleuse:0b} 1

@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Overload","color":"dark_purple","bold":true}',Lore:['{"text":"Conducts cosmic energy trought your veins which may end deadly","color":"gray"}','{"text":"XP Cost: 200","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:74,acm_skill:"overload",acm_cost:200,acm_singleuse:0b} 1

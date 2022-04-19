@@ -1,0 +1,1 @@
+#experience add @a[level=..3] 1 points

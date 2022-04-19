@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Ascend","color":"gold","bold":true}',Lore:['{"text":"Ascend yourseld to a higher being","color":"gray"}','{"text":"XP Cost: 500","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:66,acm_skill:"ascend",acm_cost:500,acm_singleuse:0b} 1

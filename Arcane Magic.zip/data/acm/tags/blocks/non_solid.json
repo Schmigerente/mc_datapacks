@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:buttons",
+	"#minecraft:pressure_plates",
+	"#minecraft:flowers",
+	"minecraft:grass",
+	"minecraft:tall_grass",
+	"minecraft:air",
+	"minecraft:fire"
+  ]
+}

@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"Poison","color":"green","bold":true}',Lore:['{"text":"Poisons everything in a 5 block radius except yourself","color":"gray"}','{"text":"XP Cost: 30","color":"dark_green"}']},HideFlags:4,Unbreakable:1b,CustomModelData:36,acm_skill:"poison",acm_cost:30,acm_singleuse:0b} 1
